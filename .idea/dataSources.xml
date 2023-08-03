@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Prod - Felix Core" uuid="7a1ace91-d2ce-4805-aa97-34a68267aec5">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://35.238.96.62:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Stage - Felix Core" uuid="6cea8a10-1603-4a3d-809c-3b2aceba707e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://104.197.110.184:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Integration - Felix Core" uuid="af50ea46-c0ca-4800-92b6-57f38846c232">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://35.224.236.137:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="UAT - Felix Core" uuid="fc90ef3b-020e-4735-8efb-20593646f506">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://34.68.17.146:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="CI - Felix" uuid="8a86d7c5-c5db-4a90-a088-abd816641dd0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://34.67.5.170:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="postgres@34.70.64.184" uuid="09fe9f45-9f72-48fa-b9b3-d68395ec7d6d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://34.70.64.184:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Prod - Reporting" uuid="d7fd4a70-b46d-4fbb-abea-1dff0e89e289">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://146.148.54.55:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Dev - Felix Core" uuid="6f8082d2-1261-4344-9d0e-d166c023376e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://35.239.48.201:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="INT - Reporting" uuid="31e85f66-d171-4dcc-b265-e4b71f2fe0bb">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://34.69.227.143:5432/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
